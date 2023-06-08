@@ -1,0 +1,46 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2.5rem;
+}
+
+.main-content{
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    color: white;
+    font-weight: bold;
+    margin: 2rem !important;
+}
+
+.email {
+    background-color: white;
+    width: 75%;
+}
+
+.password {
+    background-color: white;
+    width: 75% !important;
+}
+
+.remember {
+    margin-top: 1.5rem !important;
+}
+
+.checkbox{
+    margin-top: 0.8rem !important;
+}
+
+.link {
+    color: white !important;
+    margin-top: 1.5rem !important;
+    margin-right: 2rem !important;
+}
+
+.new {
+    color: white;
+    margin-top: 0.3rem !important;
+}
