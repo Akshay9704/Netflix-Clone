@@ -1,3 +1,15 @@
+## MAIN PAGE
+![1](https://github.com/Akshay9704/Netflix-Clone/assets/107040611/7d9784aa-2e62-4019-8d27-62a8fbadce9f)
+
+## LOGIN PAGE
+![2](https://github.com/Akshay9704/Netflix-Clone/assets/107040611/f8769102-e66e-40ad-b75e-616cf32fadcf)
+
+## SHOWCASE PAGE
+![3](https://github.com/Akshay9704/Netflix-Clone/assets/107040611/18f33576-d930-4565-84a3-ad868ffd60ab)
+
+## PLAYER
+![4](https://github.com/Akshay9704/Netflix-Clone/assets/107040611/2c5a5ff7-cbd5-4b45-bfe8-5f49076dc014)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
